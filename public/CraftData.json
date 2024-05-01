@@ -1,0 +1,53 @@
+[
+    {
+      "image": "https://example.com/clay_sculpture.jpg",
+      "item_name": "Clay Sculpture of a Lion",
+      "subcategory_name": "Clay Sculpture",
+      "short_description": "Handcrafted clay sculpture depicting a majestic lion.",
+      "price": 50.99,
+      "rating": 4.8,
+      "customization": "yes",
+      "processing_time": "1-2 weeks"
+    },
+    {
+      "image": "https://example.com/stone_sculpture.jpg",
+      "item_name": "Marble Statue of Venus",
+      "subcategory_name": "Stone Sculpture",
+      "short_description": "Elegant stone sculpture of the Roman goddess Venus carved from marble.",
+      "price": 120.50,
+      "rating": 4.9,
+      "customization": "no",
+      "processing_time": "2-3 weeks"
+    },
+    {
+      "image": "https://example.com/metal_sculpture.jpg",
+      "item_name": "Steel Abstract Sculpture",
+      "subcategory_name": "Metal Sculpture",
+      "short_description": "Abstract metal sculpture crafted from stainless steel.",
+      "price": 200.00,
+      "rating": 4.7,
+      "customization": "yes",
+      "processing_time": "3-4 weeks"
+    },
+    {
+      "image": "https://example.com/food_carving.jpg",
+      "item_name": "Watermelon Carving of a Flower",
+      "subcategory_name": "Food carving",
+      "short_description": "Intricate watermelon carving showcasing a blooming flower.",
+      "price": 25.99,
+      "rating": 4.5,
+      "customization": "no",
+      "processing_time": "1-2 days"
+    },
+    {
+      "image": "https://example.com/natural_material_sculpture.jpg",
+      "item_name": "Twig and Leaf Sculpture",
+      "subcategory_name": "Natural Material Sculpture",
+      "short_description": "Sculpture made from twigs and leaves gathered from the forest floor.",
+      "price": 35.00,
+      "rating": 4.6,
+      "customization": "yes",
+      "processing_time": "2-3 weeks"
+    }
+  ]
+  
